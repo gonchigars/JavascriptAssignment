@@ -1,4 +1,4 @@
-Sure, here are the exercises as questions without the answers:
+
 
 ### 1. Introduction to JavaScript Fundamentals (Variable, Let, const)
 
@@ -77,10 +77,7 @@ Sure, here are the exercises as questions without the answers:
 **Exercise**:
 - Add an event listener to a button that logs a message when clicked.
 
-### 12. DOM Manipulation
 
-**Exercise**:
-- Create a function that changes the background color of a div when a button is clicked.
 
 ### 13. ES6 and Beyond
 
